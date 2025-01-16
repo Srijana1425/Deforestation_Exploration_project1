@@ -23,5 +23,3 @@ ForestQuery is on a mission to combat deforestation worldwide. As a data analyst
 ## 🔧 Credits
 - Udacity
 
-## 📜 License
-- Your license info here.
